@@ -4,5 +4,5 @@ function init() {
         mapTypeId: google.maps.MapTypeId.ROADMAP,
         zoom: 2
     };
-
+   
 }
